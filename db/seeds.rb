@@ -5,3 +5,11 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+require 'csv'
+
+CSV.foreach(File.expand_path(File.dirname(__FILE__) + "/data/codecampdata.csv")) do |row|
+  users = User.create(name: row[1], email: row[2], generation: row[3], location: row[4], school: row[5])
+
+  #puts row.inspect
+end
