@@ -1,15 +1,21 @@
+<div class="prof-cards-container">
 <% provide(:title, @user.name) %>
 <div class="row">
   <aside class="col-md-4">
     <section class="user_info">
-      <h1>
+      <div class="prof-card">
+      <img class="prof-user-image" src="http://dawngrant.com/wp-content/uploads/2012/10/51OGcNFcrX-12.png" />
+      <h1 class = "prof-user-name">
         <%= @user.name %>
-        <%= @user.email %>
-        <%= @user.location %>
-        <%= @user.school %>
-        <%= @user.generation %>
       </h1>
+
+        <div class = "prof-user-email">Contact Me: <%= @user.email %></div>
+        <div class = "prof-user-location">Location: <%= @user.location %></div>
+        <div class = "prof-user_school">School: <%= @user.school %></div>
+        <div class = "prof-user-gen">Generation: <%= @user.generation %></div>
+      </div>
     </section>
   </aside>
+</div>
 </div>
 
