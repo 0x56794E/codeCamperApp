@@ -1,4 +1,4 @@
-class UserController < ApplicationController
+class UsersController < ApplicationController
 	respond_to :html
 	before_action :find_user, except: [:index, :new, :create]
 
