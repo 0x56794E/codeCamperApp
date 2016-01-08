@@ -29,7 +29,7 @@ ActiveRecord::Schema.define(version: 20160107041957) do
     t.string   "email"
     t.string   "location"
     t.string   "school"
-    t.integer  "generation"
+    t.string   "generation"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
