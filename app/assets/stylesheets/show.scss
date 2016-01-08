@@ -1,0 +1,59 @@
+.prof-cards-container{
+	width: 500px;
+	margin: 0 auto;
+}
+
+.prof-card{
+	align-items: center;
+	float: left;
+	width: 500px;
+	height: 500px;
+	margin: auto;
+	padding: 15px;
+	text-align: center;
+	background: #ec5151;
+	color: white;
+	border-radius: 25px;
+	line-height: 1.4;
+}
+
+.prof-user-name{
+	font-family: "Helvetica Neue";
+	font-size: 40px;
+	color: #FFFFFF;
+	margin: 0 auto;
+	margin-bottom: 10px;
+
+}
+
+.prof-user-email{
+	font-family: "Helvetica Neue";
+	font-size: 20px;
+	color: #FFFFFF;
+	margin: 0 auto;
+	
+
+}
+
+.prof-user-location{
+	font-family: "Helvetica Neue";
+	font-size: 20px;
+	color: #FFFFFF;
+	margin: 0 auto;
+	
+}
+
+.prof-user_school{
+	font-family: "Helvetica Neue";
+	font-size: 20px;
+	color: #FFFFFF;
+	margin: 0 auto;
+	
+}
+
+.prof-user-gen{
+	font-family: "Helvetica Neue";
+	font-size: 20px;
+	color: #FFFFFF;
+	margin: 0 auto;
+}
