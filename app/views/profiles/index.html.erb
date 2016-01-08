@@ -1,0 +1,42 @@
+<h1>
+	Users:
+</h1>
+
+<div class="cards-container">
+	
+	<% @users.each do |user| %>
+		<div class="card">
+			<img class="user-image" src="http://dawngrant.com/wp-content/uploads/2012/10/51OGcNFcrX-12.png" />
+			<div class="user-name"><%= user.name %></div>
+			<div class="user-school"><%= user.school %></div>
+			<div class="user-location"><%= user.location %></div>
+		</div>
+	<% end %>
+
+	<div class="card">
+		
+		<div class="user-name">Name A</div>
+		<div class="user-school">School A</div>
+		<div class="user-location">Location A</div>
+		<div class="user-tags">
+			<span>Tags:</span>
+			<span class="user-tags-tag">Skill A</span>
+			<span class="user-tags-tag">Skill B</span>
+			<span class="user-tags-tag">Skill C</span>
+		</div>
+	</div>
+
+	<div class="card">
+		<img class="user-image" src="http://dawngrant.com/wp-content/uploads/2012/10/51OGcNFcrX-12.png" />
+		<div class="user-name">Name B</div>
+		<div class="user-school">School B</div>
+		<div class="user-location">Location B</div>
+	</div>
+
+	<div class="card">
+		<img class="user-image" src="http://dawngrant.com/wp-content/uploads/2012/10/51OGcNFcrX-12.png" />
+		<div class="user-name">Name C</div>
+		<div class="user-school">School C</div>
+		<div class="user-location">Location C</div>
+	</div>
+</div>
