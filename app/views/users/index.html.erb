@@ -53,17 +53,16 @@
 </div>
 
 </div>
-
- <center>
-     <div id="container1" style="position: relative; width: 600px; max-height: 300px; margin: 0px;"></div>
+<center>
+     <div id="container1" style="position: relative; width: 750px; max-height: 300px; margin: 0px;"></div>
 
      <script>
       var map = new Datamap({
         scope: 'world',
         element: document.getElementById('container1'),
         projection: 'mercator',
-        width: 600,
-        height: 500,
+        width: 750,
+        height: 625,
         fills: {
           defaultFill: '#282d35',
           <% @users.each do |user| %>
