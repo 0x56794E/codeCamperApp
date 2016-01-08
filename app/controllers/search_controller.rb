@@ -7,6 +7,7 @@ class SearchController < ApplicationController
   	school_matches =  User.where("lower(school) LIKE ?", "%#{query}%") 
 
   	@results = name_matches.to_a + place_matches.to_a + email_matches.to_a + school_matches.to_a
+  	@results = @results.uniq
 
   end
 end
