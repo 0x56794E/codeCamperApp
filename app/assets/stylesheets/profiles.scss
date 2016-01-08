@@ -5,17 +5,17 @@ body {
 
 .logo-container {
 	width: 250px;
-	margin: 0 auto;
+	margin: 50px auto;
 }
 
 .cards-container {
-	width: 870px;
+	width: 1020px;
 	margin: 0 auto;
 }
 
 .card {
 	float: left;
-	width: 200px;
+	width: 250px;
 	height: 250px;
 	margin: 30px;
 	padding: 15px;
@@ -31,9 +31,15 @@ body {
 	height: 100px;
 	background: white;
 	border-radius: 300px;
-	margin-bottom: 9px;
+	margin: 12px;
 }
 
 .user-name {
-	font-size: 30px;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 6px;
+}
+
+.user-school {
+	margin-bottom: 2px;
 }
