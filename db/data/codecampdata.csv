@@ -1,34 +1,35 @@
-1/6/2016 12:05:27,Kaitlin Gu,kaitlin.gu@gmail.com,VI,New York City,New York University,,"Girls Who Code, Black & Black Creative"
-1/6/2016 12:08:00,JN Fang,j.fang94@gmail.com,VI,Cambridge MA,Harvard,,"Box, Microsoft, Partners in Health, Jana Care Solutions"
-1/6/2016 12:09:14,Alexandra Sunderland,alexandra.sunderland@gmail.com,IV,Waterloo,University of Waterloo,SurveyMonkey,"Fluidware, Chide.it"
-1/6/2016 12:10:16,Jackie Luo,jackiehluo@gmail.com,V,San Francisco (New York for school),Columbia University,Nylas,Percolate
-1/6/2016 12:10:50,Sophia Raji,sophiaraji@gmail.com,IV,Boulder,CU Boulder,Still in school,"Facebook, Microsoft"
-1/6/2016 12:14:49,Maegan Clawges,mclawges22@gmail.com,III,San Francisco,University of North Carolina at Chapel Hill,Google,"The San Francisco Chronicle, Microsoft"
-1/6/2016 12:17:05,Jasmine Lee,jasminelee988@gmail.com,IV,San Francisco,Berkeley,Still in school ,Square <3 
-1/6/2016 12:21:25,Terri Burns,terriburns@nyu.edu,V,New York,NYU,student,Interned at Venmo
-1/6/2016 12:27:36,Michaela Shtilman Minkin,michaelasm@gmail,III,Boston,UMass Amherst,Wayfair,"Verizon (intern), Wayfair (intern)"
-1/6/2016 12:27:53,Sara Peletz,sarapeletz@gmail.com,IV,"Santander, Spain",Brown University,,"D-Rev, Rapid Electro-Mechanical Design, Palantir"
+Timestamp,Full Name,E-mail,Code Camp Generation,Where are you currently located? (Ex. San Francisco) ,Alma Mater,Company Currently Employed At,Companies Previously Employed At,Lat,Long,Image URL
+1/6/2016 12:05:27,Kaitlin Gu,kaitlin.gu@gmail.com,VI,New York City,New York University,,"Girls Who Code, Black & Black Creative",40.7127,-74.0059,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAZPAAAAJGNhOWU2YTRiLWNkNDgtNDkwNy05ZTg0LTExZTc3YzZmZTRlMQ.jpg
+1/6/2016 12:08:00,JN Fang,j.fang94@gmail.com,VI,Massachusetts,Harvard,,"Box, Microsoft, Partners in Health, Jana Care Solutions",42.3736,-71.1106,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/08e/085/24880af.jpg
+1/6/2016 12:09:14,Alexandra Sunderland,alexandra.sunderland@gmail.com,IV,Waterloo,University of Waterloo,SurveyMonkey,"Fluidware, Chide.it",43.4667,-80.5167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/005/0a3/029/2a25843.jpg
+1/6/2016 12:10:16,Jackie Luo,jackiehluo@gmail.com,V,San Francisco,Columbia University,Nylas,Percolate,37.7833,-122.4167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAIaAAAAJDQ0MjgzMjNlLWNlZmUtNGUxMS04Mzg4LThhM2MyYWY0MzNmZA.jpg
+1/6/2016 12:10:50,Sophia Raji,sophiaraji@gmail.com,IV,Boulder,CU Boulder,Still in school,"Facebook, Microsoft",40.0274,-105.2519,
+1/6/2016 12:14:49,Maegan Clawges,mclawges22@gmail.com,III,San Francisco,University of North Carolina at Chapel Hill,Google,"The San Francisco Chronicle, Microsoft",37.7833,-122.4167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAVDAAAAJGU4ZmE2ZDdjLTQwY2QtNDg5OS1iNTAxLWVjYTAwMzRjZTJjZA.jpg
+1/6/2016 12:17:05,Jasmine Lee,jasminelee988@gmail.com,IV,San Francisco,Berkeley,Still in school ,Square <3,37.7833,-122.4167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAKcAAAAJGRiZTNmNjhiLTE3ZWItNGI2Ny05NTExLWQ5MmMwYzYxMGRiNA.jpg
+1/6/2016 12:21:25,Terri Burns,terriburns@nyu.edu,V,New York City,NYU,student,Interned at Venmo,40.7127,-74.0059,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAARiAAAAJDM0ZTU1YWE4LTcxYzItNGNmOC05NTdkLTk0NjEwNDI4MWYyZA.jpg
+1/6/2016 12:27:36,Michaela Shtilman Minkin,michaelasm@gmail,III,Boston,UMass Amherst,Wayfair,"Verizon (intern), Wayfair (intern)",42.3601,-71.0589,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/025/242/010e2f8.jpg
+1/6/2016 12:27:53,Sara Peletz,sarapeletz@gmail.com,IV,Spain,Brown University,,"D-Rev, Rapid Electro-Mechanical Design, Palantir",43.4628,3.805,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/0b5/336/03c0670.jpg
 1/6/2016 12:36:02,Jennifer Qiao,jenniferq0204@gmail.com,I,San Francisco,University of Waterloo,Reflektion,"* Apple (intern)
 * AppDynamics (intern)
-* Funzio (intern)"
-1/6/2016 12:44:42,Tali Marcus,tmarc114@gmail.com,II,"Oakland, CA",Wellesley College,General Electric,InterSystems
-1/6/2016 12:54:37,Niv Govindaraju,nivetha.gov@gmail.com,V,"Waterloo, Canada",University of Waterloo,N/A,"Roche
-Robarts Research Institute"
+* Funzio (intern)",37.7833,-122.4167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/6/005/0b3/30c/0849e2f.jpg
+1/6/2016 12:44:42,Tali Marcus,tmarc114@gmail.com,II,Oakland,Wellesley College,General Electric,InterSystems,37.8044,-122.2708,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAALRAAAAJDY3YzcxZTM2LWViMTEtNGFmYy1iODUwLWQyZTM2YjJkZDBhNg.jpg
+1/6/2016 12:54:37,Niv Govindaraju,nivetha.gov@gmail.com,V,Waterloo,University of Waterloo,N/A,"Roche
+Robarts Research Institute",43.4667,-80.5167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAMRAAAAJGE1Yjk2MTZlLTY5MjEtNDNjZC1iZTE3LTg3MDQyMmQ4MWI4Mg.jpg
 1/6/2016 12:59:46,Jenna Memmolo,jenna.memmolo@outlook.com,II,Boston,University of Waterloo,Rockstar Games,"Side Effects Software
-Digital Extremes"
-1/6/2016 13:06:04,Megan Chen,meganchen@utexas.edu,VI,"Austin, TX",University of Texas at Austin,Twitter (this summer),"Ravenna Solutions
-Microsoft"
-1/6/2016 13:17:51,Stephanie Zeidan ,Stephaniezeidan4@gmail.com ,IV,"Ottawa, Ontario ",University of Ottawa ,Ciena,Royal Canadian Mounted Police 
-1/6/2016 13:35:06,Sonali sastry,Sonali.sastry@gmail.com,IV,New York,Wellesley College,Goldman Sachs,Microsoft
-1/6/2016 13:56:49,Grace Hu,gracehu532@gmail.com,IV,San Francisco,Wellesley College,Planet Labs,Bank of America 
-1/6/2016 14:14:50,Laura Beth Fulton,laurab1220@yahoo.com,V,Pittsburgh,University of Pittsburgh,,Internship at Microsoft Summer 2016 and Externship at Johns Hopkins University Gray Biocomputing lab Summer 2016
-1/6/2016 14:43:19,Brianna Connelly,briannacon@gmail.com,II,San Francisco,University of Texas at Austin,Google,"Apple, IBM"
-1/6/2016 15:24:09,Jacqueline Ali Cordoba,jackiealicordoba@gmail.com,V,San Francisco,Northeastern University,Square,Galatea Associates
-1/6/2016 15:30:13,Stephanie He,he.stephanie.y@gmail.com,I,San Francisco,Princeton,Flux,"KPCB Fellow at Square, Google"
-1/6/2016 16:36:13,Evy Kassirer,evy.kassirer@gmail.com,V,Waterloo,Waterloo,Khan Academy (internship),Google
-1/6/2016 16:41:13,Andreea Cirstea,aicirstea@gmail.com,V,Atlanta ,Furman University ,Lumen Research ,J.P. Morgan & Chase 
-1/6/2016 18:29:06,Nupur Garg,nupurgarg@gmail.com,III,"San Luis Obispo, CA (school), Bay Area/SF (Summer)","California Polytechnic State University, San Luis Obispo",Student,"Google (Engineering Practicum Intern), Square (Intern)"
-1/6/2016 18:52:12,Kacey Coughlin,Kaceycoughlin@mac.com,II,"San Francisco, CA",UCSD,LinkedIn,"Mitchell1, Peregrine Semiconductor, Best Buy, myself."
-1/6/2016 19:53:49,Tsion Behailu,tsionbehailu@gmail.com,II,Sunnyvale,UC Berkeley,Google,Groupon
-,Briana Vecchione,briana.vecchione@gmail.com,VI,New York,Pace University,Student,"Microsoft Research, Federal Reserve"
-,,,,,, ,
+Digital Extremes",42.3601,-71.0589,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/005/04c/065/28e1eb8.jpg
+1/6/2016 13:06:04,Megan Chen,meganchen@utexas.edu,VI,Austin,University of Texas at Austin,Twitter (this summer),"Ravenna Solutions
+Microsoft",30.25,-97.75,
+1/6/2016 13:17:51,Stephanie Zeidan ,Stephaniezeidan4@gmail.com,IV,Ottawa,University of Ottawa ,Ciena,Royal Canadian Mounted Police ,45.4214,-75.6919,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/0b5/33f/0ae991a.jpg
+1/6/2016 13:35:06,Sonali sastry,Sonali.sastry@gmail.com,IV,New York,Wellesley College,Goldman Sachs,Microsoft,40.7127,-74.0059,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/055/031/0e705c1.jpg
+1/6/2016 13:56:49,Grace Hu,gracehu532@gmail.com,IV,San Francisco,Wellesley College,Planet Labs,Bank of America ,37.7833,-122.4167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/055/031/0e705c1.jpg
+1/6/2016 14:14:50,Laura Beth Fulton,laurab1220@yahoo.com,V,Pittsburgh,University of Pittsburgh,,Internship at Microsoft Summer 2016 and Externship at Johns Hopkins University Gray Biocomputing lab Summer 2016,40.4397,-79.9764,
+1/6/2016 14:43:19,Brianna Connelly,briannacon@gmail.com,II,San Francisco,University of Texas at Austin,Google,"Apple, IBM",37.7833,-122.4167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAALRAAAAJDBlYjg4YzY3LWVkMTktNDg4MC04YjM3LTdiOWY0Nzg5ZDI1Ng.jpg
+1/6/2016 15:24:09,Jacqueline Ali Cordoba,jackiealicordoba@gmail.com,V,San Francisco,Northeastern University,Square,Galatea Associates,37.7833,-122.4167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAKMAAAAJDk3NmUyNjkxLTQ1MDMtNGJmZS05NzI4LWEyNmRmN2E5N2IzMg.jpg
+1/6/2016 15:30:13,Stephanie He,he.stephanie.y@gmail.com,I,San Francisco,Princeton,Flux,"KPCB Fellow at Square, Google",37.7833,-122.4167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/18e/224/07ac51b.jpg
+1/6/2016 16:36:13,Evy Kassirer,evy.kassirer@gmail.com,V,Waterloo,Waterloo,Khan Academy (internship),Google,43.4667,-80.5167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAM2AAAAJDU1ZjkxOWYxLWMyOGYtNDEzZi05ZmY5LWJlYTcxMjU4N2M1Ng.jpg
+1/6/2016 16:41:13,Andreea Cirstea,aicirstea@gmail.com,V,Atlanta ,Furman University ,Lumen Research ,J.P. Morgan & Chase ,33.755,-84.39,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/005/07a/344/30ed78d.jpg
+1/6/2016 18:29:06,Nupur Garg,nupurgarg@gmail.com,III,San Luis Obispo,"California Polytechnic State University, San Luis Obispo",Student,"Google (Engineering Practicum Intern), Square (Intern)",35.2742,-120.6631,https://scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/c0.0.160.160/p160x160/10574523_794563457260717_5380715434856020558_n.jpg?oh=cae72f6d5f212acfb066606c535bc158&oe=57065FAA
+1/6/2016 18:52:12,Kacey Coughlin,Kaceycoughlin@mac.com,II,San Francisco,UCSD,LinkedIn,"Mitchell1, Peregrine Semiconductor, Best Buy, myself.",37.7833,-122.4167,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/0b2/1f2/3c52078.jpg
+1/6/2016 19:53:49,Tsion Behailu,tsionbehailu@gmail.com,II,Sunnyvale,UC Berkeley,Google,Groupon,37.3711,-122.0375,https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAZHAAAAJGYxOTliNzU1LThjMzEtNGM2MS1iZjM5LWY3Y2Q2M2Y3MTcwNA.jpg
+,Briana Vecchione,briana.vecchione@gmail.com,VI,New York City,Pace University,Student,"Microsoft Research, Federal Reserve",40.7127,-74.0059,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/04a/115/2e27c87.jpg
+,,,,,,,,,,

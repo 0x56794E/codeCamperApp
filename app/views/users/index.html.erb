@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<body>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <script src="http://datamaps.github.io/scripts/datamaps.world.min.js?v=1"></script>
+
 <div class="center jumbotron">
   <h1>Welcome </h1>
 
@@ -5,7 +12,44 @@
     This is the home page.
   </h2>
 
-  <%= link_to "Sign up now!", signup_path %>
+  <%= link_to "Sign up now!", signup_path, class: "btn btn-lg btn-primary" %>
 </div>
+ 
+     <div id="container1" style="position: relative; width: 80%; max-height: 300px;"></div>
+     <script>
+      var map = new Datamap({
+        scope: 'world',
+        element: document.getElementById('container1'),
+        projection: 'mercator',
+        height: 700,
+        fills: {
+          defaultFill: '#ec5151'
+        },
 
-<h2>Here’s a map</h2>
+        geographyConfig: {
+            highlightOnHover: false,
+            popupOnHover: false
+        },
+        
+        data: {}
+      })
+      
+      
+      //sample of the arc plugin
+      map.arc([], {strokeWidth: 0});
+       
+      
+       //bubbles, custom popup on hover template
+     map.bubbles([ 
+
+      <% @users.each do |user| %>
+      { name: "<%= user.name %>", latitude: <%= user.lat %>, longitude: <%= user.long %>, radius: 10, fillKey: '#000000'}, 
+      <% end %>
+
+     ], {
+       popupTemplate: function(geo, data) {
+         return "<div class='hoverinfo'>" + data.name + "</div>";
+       }
+     });
+     </script>
+</body>
