@@ -54,11 +54,13 @@
 <div class="cards-container">
 	
 	<% @users.each do |user| %>
-		<div class="card">
-			<img class="user-image" src="http://dawngrant.com/wp-content/uploads/2012/10/51OGcNFcrX-12.png" />
-			<div class="user-name"><%= user.name %></div>
-			<div class="user-school"><%= user.school %></div>
-			<div class="user-location"><%= user.location %></div>
-		</div>
+		<%= link_to user_path(user) do %>
+			<div class="card">
+				<img class="user-image" src="http://dawngrant.com/wp-content/uploads/2012/10/51OGcNFcrX-12.png" />
+				<div class="user-name"><%= user.name %></div>
+				<div class="user-school"><%= user.school %></div>
+				<div class="user-location"><%= user.location %></div>
+			</div>
+		<% end %>
 	<% end %>
 </div>
