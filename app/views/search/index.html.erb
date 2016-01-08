@@ -1,17 +1,12 @@
 <h1>Results</h1>
-
-<% unless @results.empty? %>
-	<h2> Errors </h2>
-<% else %>
 <% @results.each do |user| %>
 	<%= link_to user_path(user) do %>
 			<div class="card">
-				<img class="user-image" src="http://dawngrant.com/wp-content/uploads/2012/10/51OGcNFcrX-12.png" />
+				<img class="user-image" src="<%=user.image%>" />
 				<div class="user-name"><%= user.name %></div>
 				<div class="user-school"><%= user.school %></div>
 				<div class="user-location"><%= user.location %></div>
 			</div>
 		<% end %>
-	<% end %>
 <% end %>
 
